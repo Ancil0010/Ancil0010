@@ -1,16 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ancil Antichan</h1>
-<h3 align="center">A passionate Android and a UX/UI developer from India</h3>
+```markdown
+# Hi 👋, I'm Ancil Antichan
 
-- 📫 How to reach me **ancilmathew0010@gmail.com**
+## A passionate Android and UX/UI Developer from India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ancil-antichan-b2762b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ancil-antichan-b2762b1aa/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ancil01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ancil01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ancilmathew0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ancilmathew0010" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ancil01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ancil01/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ancilmathew0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ancilmathew0010" height="30" width="40" /></a>
-</p>
+### 💎 About Me
+- 📧 How to reach me: **ancilmathew0010@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 👥 Connect with Me
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ancil-antichan-b2762b1aa/)  
+[![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)](https://www.codechef.com/users/ancil01)  
+[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/profile/ancilmathew0010)  
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/ancil01/)  
+[![GeeksforGeeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/ancilmathew0010)
+
+---
+
+## 💪 Languages and Tools
+
+### Programming Languages
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
+![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+
+### Development Tools & Platforms
+![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)  
+![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)  
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
+
+### UI/UX & Design
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)  
+![Adobe Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)  
+![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)  
+![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)  
+
+### Version Control & Others
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)  
+![React Native](https://reactnative.dev/img/header_logo.svg)  
+
+---
+
+### 🎬 Thanks for Visiting!
+Feel free to connect with me and check out my projects! 🚀
+```
+
